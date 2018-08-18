@@ -12,9 +12,9 @@ author-img: xingye.JPG # add your photo
 about-author: Focusing on cloud native and microservices development. Always hungry to keep learning. # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: microservicesengineer # add your Github handle
 #social-linkedin: # add your Linkedin handle
-social-email: microservicesengineer@126.com# add your Email address
+social-email: microservicesengineer@126.com # add your Email address
 
 # Disqus
 discus-identifier: Alex BlackMamba # add your discus identifier
