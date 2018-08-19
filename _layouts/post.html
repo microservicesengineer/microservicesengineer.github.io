@@ -36,3 +36,17 @@ layout: main
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'microservicesengineer',
+    repo: 'https://github.com/microservicesengineer/microservicesengineer.github.io.git',
+    oauth: {
+        client_id: '82b1b09ad8a1cfa7afcf',
+        client_secret: '7fcd40574e81114e9cb62ed856c105d7655f752a',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
