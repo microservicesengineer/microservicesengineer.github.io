@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Alex # add your name
 author-img: xingye.JPG # add your photo
-about-author: Focusing on cloud native and microservices development. Always hungry to keep learning. # add description
+about-author: 专注于Cloud Native开发和微服务架构设计
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: microservicesengineer # add your Github handle
