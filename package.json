@@ -9,6 +9,7 @@
   "dependencies": {
     "browser-sync": "^2.18.13",
     "child_process": "^1.0.2",
+    "gitment": "0.0.3",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-cache": "^0.4.6",
